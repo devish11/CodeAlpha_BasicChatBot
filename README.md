@@ -56,7 +56,4 @@ See the LICENSE file for more details.
 
 ## Author 
 Devish 
-
-🏁 Conclusion
-
-A minimalistic chatbot built purely with basic Python logic, demonstrating how simple constructs like conditions, loops, and functions can bring interactivity to console-based programs.
+Github - devish11
