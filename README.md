@@ -1,4 +1,4 @@
-## 🧠 Task 4 – Basic Chatbot
+## Basic Chatbot
 ## 🎯 Goal
 
 To build a simple rule-based chatbot using only basic Python concepts.
